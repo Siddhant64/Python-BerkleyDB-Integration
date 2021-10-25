@@ -1,1 +1,1 @@
-Empty readme file
+CMPUT 291 Project 2
